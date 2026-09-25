@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ponnaya",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ChillBlockMC.aternos.me:42331",
+    "port": 42331,
     "version": "",
     "try-creative": false
   },
